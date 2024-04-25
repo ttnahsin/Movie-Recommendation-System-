@@ -1,1 +1,1 @@
-Movie recommmendation system: It recommend you movie from the movie name which you have enter. This recommend the movie from Hollywood, Bollywood and Nepali movie that is available in our Datasets.
+Movie recommmendation system: It recommend you movie from the movie name which you have enter. This recommend the movie from Hollywood, Bollywood and Nepali movie that is available in our Datasets. I have used python, flask, html, css, jquery, js.
